@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "66d0a92736f985eca82710bc"
+  },
+  "nombre": "Hotel Barranquilla",
+  "ciudad": "Barranquilla",
+  "habitaciones_estandar": 30,
+  "habitaciones_premium": 3,
+  "habitaciones_vip": 0,
+  "cupo_maximo": 4
+},
+{
+  "_id": {
+    "$oid": "66d0a92736f985eca82710bd"
+  },
+  "nombre": "Hotel Cali",
+  "ciudad": "Cali",
+  "habitaciones_estandar": 0,
+  "habitaciones_premium": 20,
+  "habitaciones_vip": 2,
+  "cupo_maximo": 6
+},
+{
+  "_id": {
+    "$oid": "66d0a92736f985eca82710be"
+  },
+  "nombre": "Hotel Cartagena",
+  "ciudad": "Cartagena",
+  "habitaciones_estandar": 10,
+  "habitaciones_premium": 1,
+  "habitaciones_vip": 0,
+  "cupo_maximo": 8
+},
+{
+  "_id": {
+    "$oid": "66d0a92736f985eca82710bf"
+  },
+  "nombre": "Hotel Bogotá",
+  "ciudad": "Bogotá",
+  "habitaciones_estandar": 20,
+  "habitaciones_premium": 20,
+  "habitaciones_vip": 2,
+  "cupo_maximo": 6
+}]

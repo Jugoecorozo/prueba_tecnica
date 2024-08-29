@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b06"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bc"
+  },
+  "temporada": "alta",
+  "tipo_alojamiento": "estandar",
+  "tarifa_por_persona": 100
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b07"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bc"
+  },
+  "temporada": "alta",
+  "tipo_alojamiento": "premium",
+  "tarifa_por_persona": 200
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b08"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bd"
+  },
+  "temporada": "alta",
+  "tipo_alojamiento": "premium",
+  "tarifa_por_persona": 150
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b09"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bd"
+  },
+  "temporada": "alta",
+  "tipo_alojamiento": "VIP",
+  "tarifa_por_persona": 300
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b0a"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710be"
+  },
+  "temporada": "alta",
+  "tipo_alojamiento": "estandar",
+  "tarifa_por_persona": 120
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b0b"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710be"
+  },
+  "temporada": "alta",
+  "tipo_alojamiento": "premium",
+  "tarifa_por_persona": 250
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b0c"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bf"
+  },
+  "temporada": "alta",
+  "tipo_alojamiento": "estandar",
+  "tarifa_por_persona": 110
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b0d"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bf"
+  },
+  "temporada": "alta",
+  "tipo_alojamiento": "premium",
+  "tarifa_por_persona": 210
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b0e"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bf"
+  },
+  "temporada": "alta",
+  "tipo_alojamiento": "VIP",
+  "tarifa_por_persona": 350
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b0f"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bc"
+  },
+  "temporada": "baja",
+  "tipo_alojamiento": "estandar",
+  "tarifa_por_persona": 80
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b10"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bc"
+  },
+  "temporada": "baja",
+  "tipo_alojamiento": "premium",
+  "tarifa_por_persona": 160
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b11"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bd"
+  },
+  "temporada": "baja",
+  "tipo_alojamiento": "premium",
+  "tarifa_por_persona": 120
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b12"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bd"
+  },
+  "temporada": "baja",
+  "tipo_alojamiento": "VIP",
+  "tarifa_por_persona": 250
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b13"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710be"
+  },
+  "temporada": "baja",
+  "tipo_alojamiento": "estandar",
+  "tarifa_por_persona": 90
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b14"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710be"
+  },
+  "temporada": "baja",
+  "tipo_alojamiento": "premium",
+  "tarifa_por_persona": 200
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b15"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bf"
+  },
+  "temporada": "baja",
+  "tipo_alojamiento": "estandar",
+  "tarifa_por_persona": 100
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b16"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bf"
+  },
+  "temporada": "baja",
+  "tipo_alojamiento": "premium",
+  "tarifa_por_persona": 180
+},
+{
+  "_id": {
+    "$oid": "66d0aca7dd7ba77add297b17"
+  },
+  "hotelId": {
+    "$oid": "66d0a92736f985eca82710bf"
+  },
+  "temporada": "baja",
+  "tipo_alojamiento": "VIP",
+  "tarifa_por_persona": 300
+}]
